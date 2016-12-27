@@ -1,0 +1,4 @@
+com\pjp\spittr\web\HomeController.class
+com\pjp\spittr\config\SpittrWebInitializer.class
+com\pjp\spittr\config\RootConfig.class
+com\pjp\spittr\config\WebConfig.class
