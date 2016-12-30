@@ -1,1 +1,3 @@
-com\pjp\spittr\web\HomeControllerTest.class
+com/pjp/spittr/web/SpitterControllerTest.class
+com/pjp/spittr/web/SpittleControllerTest.class
+com/pjp/spittr/web/HomeControllerTest.class

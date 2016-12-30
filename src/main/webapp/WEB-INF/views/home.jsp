@@ -4,7 +4,7 @@
     Author     : pjaraba
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
 <!DOCTYPE html>
@@ -19,4 +19,5 @@
         <a href="<c:url value="/spittles" />">Spittles</a> |
         <a href="<c:url value="/spitter/register" />">Register</a>
     </body>
+    
 </html>

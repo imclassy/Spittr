@@ -1,4 +1,13 @@
-D:\Users\PJARABA\Documents\NetBeansProjects\Spittr\src\main\java\com\pjp\spittr\config\RootConfig.java
-D:\Users\PJARABA\Documents\NetBeansProjects\Spittr\src\main\java\com\pjp\spittr\web\HomeController.java
-D:\Users\PJARABA\Documents\NetBeansProjects\Spittr\src\main\java\com\pjp\spittr\config\WebConfig.java
-D:\Users\PJARABA\Documents\NetBeansProjects\Spittr\src\main\java\com\pjp\spittr\config\SpittrWebInitializer.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/Spitter.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/web/HomeController.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/util/Paths.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/config/WebConfig.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/data/SpittleRepository.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/web/SpittleController.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/data/SpitterDummyRepository.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/data/SpittleDummyRepository.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/config/RootConfig.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/Spittle.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/config/SpittrWebInitializer.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/data/SpitterRepository.java
+/home/pjaraba/Projects/Spittr/src/main/java/com/pjp/spittr/web/SpitterController.java

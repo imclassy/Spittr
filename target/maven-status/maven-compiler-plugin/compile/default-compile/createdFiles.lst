@@ -1,4 +1,13 @@
-com\pjp\spittr\web\HomeController.class
-com\pjp\spittr\config\SpittrWebInitializer.class
-com\pjp\spittr\config\RootConfig.class
-com\pjp\spittr\config\WebConfig.class
+com/pjp/spittr/config/SpittrWebInitializer.class
+com/pjp/spittr/util/Paths.class
+com/pjp/spittr/data/SpittleDummyRepository.class
+com/pjp/spittr/data/SpitterDummyRepository.class
+com/pjp/spittr/web/HomeController.class
+com/pjp/spittr/Spittle.class
+com/pjp/spittr/config/WebConfig.class
+com/pjp/spittr/Spitter.class
+com/pjp/spittr/data/SpittleRepository.class
+com/pjp/spittr/data/SpitterRepository.class
+com/pjp/spittr/web/SpitterController.class
+com/pjp/spittr/web/SpittleController.class
+com/pjp/spittr/config/RootConfig.class

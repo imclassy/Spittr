@@ -5,16 +5,22 @@
  */
 package com.pjp.spittr.web;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
+import com.pjp.spittr.Spittle;
+import com.pjp.spittr.data.SpittleRepository;
+import static com.pjp.spittr.util.Paths.getJspViewPath;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 import org.junit.Test;
 import static org.junit.Assert.*;
+import static org.junit.matchers.JUnitMatchers.hasItems;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 import org.springframework.test.web.servlet.MockMvc;
-import static org.springframework.test.web.servlet.setup.MockMvcBuilders.standaloneSetup;
+import static org.springframework.test.web.servlet.setup.MockMvcBuilders.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
+import org.springframework.web.servlet.view.InternalResourceView;
 
 /**
  *
@@ -25,22 +31,7 @@ public class HomeControllerTest {
     public HomeControllerTest() {
     }
     
-    @BeforeClass
-    public static void setUpClass() {
-    }
     
-    @AfterClass
-    public static void tearDownClass() {
-    }
-    
-    @Before
-    public void setUp() {
-    }
-    
-    @After
-    public void tearDown() {
-    }
-
     /**
      * Test of home method, of class HomeController.
      * @throws java.lang.Exception
@@ -54,5 +45,7 @@ public class HomeControllerTest {
         assertEquals("home", controller.home());
         
     }
+    
+    
     
 }
